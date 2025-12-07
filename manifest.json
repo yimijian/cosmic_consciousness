@@ -1,9 +1,32 @@
 {
-  "artworks": [],
-  "updated_at_utc": "2025-12-07T16:34:20.698773+00:00",
+  "artworks": [
+    {
+      "slug": "襖致視角ㄌㄅ",
+      "title": "「驚喜！」",
+      "date": "2025-11-20",
+      "tags": [
+        "原創",
+        "ㄌㄅ"
+      ],
+      "description": "",
+      "files": {
+        "web": {
+          "name": "襖致視角ㄌㄅ.web.webp",
+          "size": 129560,
+          "sha256": "606a67aa954705aa0d80516f26cd23d3630c91589810653b0442fdd264886f97"
+        },
+        "thumb": {
+          "name": "襖致視角ㄌㄅ.thumb.webp",
+          "size": 22314,
+          "sha256": "926101bf1b0089a7db1ba0b029b9ae5e6e587cd531477fc8bc66a70f4f657d4a"
+        }
+      }
+    }
+  ],
+  "updated_at_utc": "2025-12-07T16:35:56.742176+00:00",
   "site": {
-    "generated_at_utc": "2025-11-25T17:43:21.386706+00:00",
-    "version": 1
+    "generated_at_utc": "2025-12-07T16:35:56.742164+00:00",
+    "version": 2
   },
   "source_hashes": {
     "341a3856": "341a38566466bdb9fcb77e6008fb38624d4a38aed3942565337bb8b4b95c6e9d",
